@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Getting Started With Project Management: A Beginners Guide.📝",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A beginner friendly article to guide you through the basic things you need to know about project management. Written by me",
+    url: "https://medium.com/@debbsproject/getting-started-with-project-management-a-beginners-guide-7c9753601f7b",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Infromation Architecture Diagrams and Process Model for a Rider Application (School Project)",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "After carrying out a few research, i drew the Process Models and Architectural diagrams for a Rider Application Called SabiRide",
+    url: "https://drive.google.com/file/d/1CV1N8bkJ2u3Pby8cFUenUBgUjdDkG0N6/view?usp=sharing",
   },
   {
-    title: "My Resume Site",
+    title: "Software Requirement documentation for a Rider Application called Sabiride. (School Project)",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "For a school project, I and my team wrote the software requirements documentation for a Rider application called SabiRide.",
+    url: "https://docs.google.com/document/d/1zWuCKixFu3dmnUR3mcUctsPiGXh0upMB/edit?usp=drive_link&ouid=110716245145065083582&rtpof=true&sd=true",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Building A Responsive Coming Soon Page In Less Than 10 Minutes😱💖",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A step by step guide to build a responsive coming soon page. written by me.",
+    url: "https://medium.com/@debbsproject/building-a-responsive-coming-soon-page-in-less-than-10-minutes-ce1c5705c90d",
   },
 ];
 
